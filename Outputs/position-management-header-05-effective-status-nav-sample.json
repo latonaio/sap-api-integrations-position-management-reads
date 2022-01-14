@@ -1,0 +1,25 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-position-management-reads/SAP_API_Caller/caller.go#L81",
+	"function": "sap-api-integrations-position-management-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": {
+		"Value": "A",
+		"Key": "com.successfactors.genericobject.api.StatusEnum",
+		"EnDEBUG": ":EMPFILE_HRIS_FOUNDATION_STATUS_ACTIVE:Active",
+		"RuRU": "Активный",
+		"Localized": "Active",
+		"PtBR": "Ativo",
+		"FrFR": "Actif",
+		"JaJP": "有効",
+		"DeDE": "Aktiv",
+		"EnGB": "Active",
+		"ZhTW": "有效",
+		"KoKR": "활성",
+		"EnUS": "Active",
+		"EsES": "Activo",
+		"ZhCN": "活动",
+		"NlNL": "Actief",
+		"PtPT": "Ativo"
+	},
+	"time": "2022-01-14T22:53:41.054874+09:00"
+}

@@ -1,0 +1,24 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-position-management-reads/SAP_API_Caller/caller.go#L102",
+	"function": "sap-api-integrations-position-management-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": {
+		"ExternalCode": "6200-0001",
+		"StartDate": "/Date(-2208988800000)/",
+		"LastModifiedDateTime": "/Date(1442544812000+0000)/",
+		"EndDate": "/Date(253402214400000)/",
+		"StandardHours": "40",
+		"Timezone": "Indian/Maldives",
+		"LastModifiedBy": "sfadmin",
+		"CreatedDateTime": "/Date(1442544812000+0000)/",
+		"Description": "",
+		"CreatedOn": "/Date(1442530412000)/",
+		"LastModifiedOn": "/Date(1442530412000)/",
+		"CreatedBy": "sfadmin",
+		"Name": "Bangalore",
+		"GeozoneFlx": "INDIA",
+		"LocationGroup": "APAC",
+		"Status": "A"
+	},
+	"time": "2022-01-14T22:53:43.308919+09:00"
+}

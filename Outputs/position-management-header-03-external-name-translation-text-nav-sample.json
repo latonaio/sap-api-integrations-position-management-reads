@@ -1,0 +1,48 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-position-management-reads/SAP_API_Caller/caller.go#L67",
+	"function": "sap-api-integrations-position-management-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": [
+		{
+			"Locale": "en_US",
+			"Value": "SVP Operations & Maintenance"
+		},
+		{
+			"Locale": "defaultValue",
+			"Value": "SVP Operations & Maintenance"
+		},
+		{
+			"Locale": "en_GB",
+			"Value": "SVP Operations & Maintenance"
+		},
+		{
+			"Locale": "zh_CN",
+			"Value": "运营和维护高级副总裁"
+		},
+		{
+			"Locale": "pt_BR",
+			"Value": "SVP Operações e manutenção"
+		},
+		{
+			"Locale": "ja_JP",
+			"Value": "SVP 作業/メンテナンス"
+		},
+		{
+			"Locale": "ru_RU",
+			"Value": "Старший вице-президент по эксплуатации и обслуживанию"
+		},
+		{
+			"Locale": "es_ES",
+			"Value": "Vicepresidente sénior (operaciones y mantenimiento)"
+		},
+		{
+			"Locale": "ko_KR",
+			"Value": "SVP 운영 및 유지보수"
+		},
+		{
+			"Locale": "de_DE",
+			"Value": "Unternehmensbereichsleiter Betrieb und Wartung"
+		}
+	],
+	"time": "2022-01-14T22:53:38.391041+09:00"
+}

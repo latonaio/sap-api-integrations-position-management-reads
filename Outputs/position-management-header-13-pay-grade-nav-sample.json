@@ -1,0 +1,22 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-position-management-reads/SAP_API_Caller/caller.go#L144",
+	"function": "sap-api-integrations-position-management-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": {
+		"ExternalCode": "GR-14",
+		"StartDate": "/Date(-2208988800000)/",
+		"LastModifiedDateTime": "/Date(1442262345000+0000)/",
+		"EndDate": "/Date(253402214400000)/",
+		"LastModifiedBy": "sfadmin",
+		"CreatedDateTime": "/Date(1440391694000+0000)/",
+		"Description": "",
+		"CreatedOn": "/Date(1440377294000)/",
+		"LastModifiedOn": "/Date(1442247945000)/",
+		"PaygradeLevel": "14",
+		"CustomString1": "GR-14",
+		"CreatedBy": "admindlr",
+		"Name": "Salary Grade 14",
+		"Status": "A"
+	},
+	"time": "2022-01-14T22:53:48.905222+09:00"
+}
