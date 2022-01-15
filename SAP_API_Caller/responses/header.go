@@ -43,7 +43,7 @@ type Header struct {
 			Description                 string      `json:"description"`
 			ExternalNameDefaultValue    string      `json:"externalName_defaultValue"`
 			ExternalNameEsES            string      `json:"externalName_es_ES"`
-			PositionControlled          string      `json:"positionControlled"`
+			PositionControlled          bool        `json:"positionControlled"`
 			ExternalNamePtBR            string      `json:"externalName_pt_BR"`
 			PayGrade                    string      `json:"payGrade"`
 			Company                     string      `json:"company"`
