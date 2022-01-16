@@ -1,8 +1,8 @@
 # sap-api-integrations-position-management-reads
 sap-api-integrations-position-management-reads は、外部システム(特にエッジコンピューティング環境)をSAPと統合することを目的に、SAP API で ポジション管理 データを取得するマイクロサービスです。    
 sap-api-integrations-position-management-reads には、サンプルのAPI Json フォーマットが含まれています。   
-sap-api-integrations-position-management-reads は、オンプレミス版である（＝クラウド版ではない）SAP SuccessFactors API の利用を前提としています。クラウド版APIを利用する場合は、ご注意ください。   
-https://api.sap.com/api/ECEmploymentInformation/overview   
+sap-api-integrations-position-management-reads は、SAP SuccessFactors API の利用を前提としています。   
+https://api.sap.com/api/ECPositionManagement/overview   
 
 ## 動作環境  
 sap-api-integrations-position-management-reads は、主にエッジコンピューティング環境における動作にフォーカスしています。  
